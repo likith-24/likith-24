@@ -2,7 +2,7 @@
 
 # 👋 Hi, I'm Likith
 
-### Java Developer • DSA Enthusiast • Aspiring Amazon SDE-1
+### Java Developer • DSA Enthusiast 
 
 <a href="https://leetcode.com/u/likith24/">
   <img src="https://img.shields.io/badge/LeetCode-likith24-FFA116?style=for-the-badge&logo=leetcode&logoColor=black"/>
@@ -10,7 +10,7 @@
 
 <br><br>
 
-<img src="https://readme-typing-svg.herokuapp.com/?lines=Java+Developer;Competitive+Programmer;Future+Amazon+SDE-1&center=true&width=600&height=45"/>
+
 
 </div>
 
