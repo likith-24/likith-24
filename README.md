@@ -16,15 +16,7 @@
 
 ---
 
-## 🏆 LeetCode Stats
 
-<div align="center">
-
-<img src="https://leetcard.jacoblin.cool/likith24?theme=dark&font=Nunito&ext=contest" width="900"/>
-
-</div>
-
----
 
 ## 🔥 LeetCode Activity Heatmap
 
@@ -64,8 +56,7 @@
 
 ```text
 🎯 Solve 500+ LeetCode Problems
-🎯 Master Trees & Graphs
-🎯 Crack Amazon SDE-1
+🎯 Master DSA
 ```
 
 ⭐ Keep Coding • Keep Growing ⭐
