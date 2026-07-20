@@ -2,7 +2,7 @@
 
 # 👋 Hi, I'm Likith
 
-### Java Developer | DSA Enthusiast | Aspiring Amazon SDE-1
+### Java Developer • DSA Enthusiast • Aspiring Amazon SDE-1
 
 <a href="https://leetcode.com/u/likith24/">
   <img src="https://img.shields.io/badge/LeetCode-likith24-FFA116?style=for-the-badge&logo=leetcode&logoColor=black"/>
@@ -10,60 +10,64 @@
 
 <br><br>
 
-<img src="https://readme-typing-svg.herokuapp.com/?lines=Java+Developer;LeetCode+Enthusiast;Spring+Boot+Learner;Future+Amazon+SDE&center=true&width=650&height=45">
+<img src="https://readme-typing-svg.herokuapp.com/?lines=Java+Developer;Competitive+Programmer;Future+Amazon+SDE-1&center=true&width=600&height=45"/>
 
 </div>
 
 ---
 
-# 🏆 LeetCode Profile
+## 🏆 LeetCode Stats
 
-<p align="center">
-  <a href="https://leetcode.com/u/likith24/">
-    <img
-      src="https://leetcard.jacoblin.cool/likith24?theme=dark&font=Karma&ext=contest"
-      width="950"
-    />
-  </a>
-</p>
+<div align="center">
 
-# 🔥 LeetCode Submission Heatmap
+<img src="https://leetcard.jacoblin.cool/likith24?theme=dark&font=Nunito&ext=contest" width="900"/>
 
-<p align="center">
-  <img
-    src="https://leetcode-badge-showcase.vercel.app/api?username=likith24&theme=dark"
-    width="950"
-  />
-</p>
+</div>
 
 ---
 
-# 💻 Tech Stack
+## 🔥 LeetCode Activity Heatmap
 
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=java,spring,mysql,git,github,docker,vscode"/>
-</p>
+<div align="center">
 
----
+<img src="https://leetcard.jacoblin.cool/likith24?theme=dark&ext=heatmap" width="1000"/>
 
-# 📊 GitHub Stats
-
-<p align="center">
-
-<img height="180em"
-src="https://github-readme-stats.vercel.app/api?username=likith-24&show_icons=true&theme=tokyonight"/>
-
-<img height="180em"
-src="https://github-readme-stats.vercel.app/api/top-langs/?username=likith-24&layout=compact&theme=tokyonight"/>
-
-</p>
+</div>
 
 ---
 
-# 🎯 Goals
+## 💻 Tech Stack
+
+<div align="center">
+
+<img src="https://skillicons.dev/icons?i=java,spring,mysql,git,github,docker,vscode" />
+
+</div>
+
+---
+
+## 📊 GitHub Stats
+
+<div align="center">
+
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=likith-24&show_icons=true&theme=tokyonight&hide_border=true"/>
+
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=likith-24&layout=compact&theme=tokyonight&hide_border=true"/>
+
+</div>
+
+---
+
+<div align="center">
+
+### 🚀 Current Goal
 
 ```text
-✔ Solve 500+ LeetCode Problems
-✔ Master Trees & Graphs
-✔ Learn System Design
-✔ Crack Amazon SDE-1
+🎯 Solve 500+ LeetCode Problems
+🎯 Master Trees & Graphs
+🎯 Crack Amazon SDE-1
+```
+
+⭐ Keep Coding • Keep Growing ⭐
+
+</div>
